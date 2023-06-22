@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple_login_FireBase</string>
+    <string name="hello_to_our_app">Hello to our app</string>
+    <string name="Hello_To_Our_App">Hello_To_Our_app</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="not_yet_register_signup">Not Yet Register? Signup</string>
+    <string name="loginBut">Login</string>
+</resources>

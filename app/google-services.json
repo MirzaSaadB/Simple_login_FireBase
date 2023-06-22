@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809538055063",
+    "project_id": "simple-login-firebase-402ab",
+    "storage_bucket": "simple-login-firebase-402ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809538055063:android:ffde6e5378e718054032d2",
+        "android_client_info": {
+          "package_name": "com.example.simple_login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809538055063-dd613djnbsh6qkldiat82010uvmd68n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq0P5T0bqasE6calvUOWLoygTBYM1ojSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809538055063-dd613djnbsh6qkldiat82010uvmd68n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
